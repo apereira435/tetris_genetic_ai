@@ -1,6 +1,6 @@
 #Tetris genetic AI
 
-This single .py. In `genetic_algo.py` you will find a tetris game a ai tetris player and a genetic ai player trainer. 
+In `genetic_algo.py` you will find a Tetris game a ai Tetris player and a genetic ai player trainer. 
 
 ##Usage 
 
